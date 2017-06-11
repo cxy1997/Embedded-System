@@ -1,0 +1,9 @@
+--cpu=Cortex-M4.fp
+".\objects\exp3-4.o"
+".\driverlib\rvmdk\driverlib.lib"
+".\objects\startup_tm4c129.o"
+".\objects\system_tm4c129.o"
+--strict --scatter ".\Objects\exp1.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\exp1.map" -o .\Objects\exp1.axf

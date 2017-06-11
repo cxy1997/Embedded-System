@@ -1,0 +1,11 @@
+.\objects\exp2-2.o: exp2-2.c
+.\objects\exp2-2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\exp2-2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\exp2-2.o: .\inc\hw_memmap.h
+.\objects\exp2-2.o: .\driverlib\debug.h
+.\objects\exp2-2.o: .\driverlib\gpio.h
+.\objects\exp2-2.o: .\inc\hw_i2c.h
+.\objects\exp2-2.o: .\inc\hw_types.h
+.\objects\exp2-2.o: .\driverlib\i2c.h
+.\objects\exp2-2.o: .\driverlib\pin_map.h
+.\objects\exp2-2.o: .\driverlib\sysctl.h
